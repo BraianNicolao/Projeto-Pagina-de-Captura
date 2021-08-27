@@ -23,5 +23,12 @@ header{
 }
 
 section{
-  color: white;
+  
+}
+
+.formContainer{
+  max-width: 230px;
+  background-color: #FFFFFFBB;
+  padding: 20px;
+  float: right;
 }
