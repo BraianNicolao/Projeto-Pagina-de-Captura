@@ -51,10 +51,11 @@ input, select{
   border: none;
   margin-bottom: 10px;
 }
-input[type="submit"]{
+.input-subs{
   color: white;
   background-color: #48C5CE;
   font-weight: bold;
+  text-align: center;
 }
 
 select{
