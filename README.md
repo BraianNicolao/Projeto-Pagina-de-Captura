@@ -1,4 +1,4 @@
-## <h1>Página de Captura</h1>
+<h1>Página de Captura</h1>
 
 O projeto é fruto do curso CURSO DESENVOLVIMENTO WEB FULL STACK ministrado por Igor Oliveira, mais conhecido pelo canal ProgramadorBr.
 
